@@ -1,6 +1,0 @@
-[build]
-builder = "python"
-install = "pip install -r requirements.txt"
-
-[run]
-command = "python generate_lrc_from_mp3.py"
